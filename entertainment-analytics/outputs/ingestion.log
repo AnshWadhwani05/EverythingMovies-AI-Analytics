@@ -1,0 +1,143 @@
+2026-03-26 23:52:49,938 - DataIngestion - INFO - Downloading ml-small.zip from https://files.grouplens.org/datasets/movielens/ml-latest-small.zip...
+2026-03-26 23:52:55,195 - DataIngestion - INFO - Successfully downloaded ml-small.zip
+2026-03-26 23:52:55,266 - DataIngestion - INFO - Extracted MovieLens files.
+2026-03-26 23:52:55,267 - DataIngestion - INFO - Downloading spotify_tracks.csv from https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv...
+2026-03-26 23:52:58,377 - DataIngestion - INFO - Successfully downloaded spotify_tracks.csv
+2026-03-26 23:52:58,710 - DataIngestion - INFO - --- Dataset Summary: spotify_tracks.csv ---
+2026-03-26 23:52:58,710 - DataIngestion - INFO - Shape: (32833, 23)
+2026-03-26 23:52:58,710 - DataIngestion - INFO - Columns: ['track_id', 'track_name', 'track_artist', 'track_popularity', 'track_album_id', 'track_album_name', 'track_album_release_date', 'playlist_name', 'playlist_id', 'playlist_genre', 'playlist_subgenre', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms']
+2026-03-26 23:52:58,736 - DataIngestion - INFO - Missing Values: 
+{'track_id': 0, 'track_name': 5, 'track_artist': 5, 'track_popularity': 0, 'track_album_id': 0, 'track_album_name': 5, 'track_album_release_date': 0, 'playlist_name': 0, 'playlist_id': 0, 'playlist_genre': 0, 'playlist_subgenre': 0, 'danceability': 0, 'energy': 0, 'key': 0, 'loudness': 0, 'mode': 0, 'speechiness': 0, 'acousticness': 0, 'instrumentalness': 0, 'liveness': 0, 'valence': 0, 'tempo': 0, 'duration_ms': 0}
+2026-03-26 23:52:58,778 - DataIngestion - INFO - Sample Data: 
+                 track_id                                         track_name track_artist  track_popularity  ... liveness valence    tempo duration_ms
+0  6f807x0ima9a1j3VPbc7VN  I Don't Care (with Justin Bieber) - Loud Luxur...   Ed Sheeran                66  ...   0.0653   0.518  122.036      194754
+1  0r7CVbZTWZgbTCYdfa2P31                    Memories - Dillon Francis Remix     Maroon 5                67  ...   0.3570   0.693   99.972      162600
+
+[2 rows x 23 columns]
+2026-03-26 23:52:58,779 - DataIngestion - INFO - Phase 2: Data Ingestion completed successfully.
+2026-03-26 23:53:28,380 - DataIngestion - INFO - File ml-small.zip already exists. Skipping download.
+2026-03-26 23:53:28,423 - DataIngestion - INFO - Extracted MovieLens files.
+2026-03-26 23:53:28,424 - DataIngestion - INFO - File spotify_tracks.csv already exists. Skipping download.
+2026-03-26 23:53:28,695 - DataIngestion - INFO - --- Dataset Summary: spotify_tracks.csv ---
+2026-03-26 23:53:28,695 - DataIngestion - INFO - Shape: (32833, 23)
+2026-03-26 23:53:28,695 - DataIngestion - INFO - Columns: ['track_id', 'track_name', 'track_artist', 'track_popularity', 'track_album_id', 'track_album_name', 'track_album_release_date', 'playlist_name', 'playlist_id', 'playlist_genre', 'playlist_subgenre', 'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness', 'liveness', 'valence', 'tempo', 'duration_ms']
+2026-03-26 23:53:28,718 - DataIngestion - INFO - Missing Values: 
+{'track_id': 0, 'track_name': 5, 'track_artist': 5, 'track_popularity': 0, 'track_album_id': 0, 'track_album_name': 5, 'track_album_release_date': 0, 'playlist_name': 0, 'playlist_id': 0, 'playlist_genre': 0, 'playlist_subgenre': 0, 'danceability': 0, 'energy': 0, 'key': 0, 'loudness': 0, 'mode': 0, 'speechiness': 0, 'acousticness': 0, 'instrumentalness': 0, 'liveness': 0, 'valence': 0, 'tempo': 0, 'duration_ms': 0}
+2026-03-26 23:53:28,724 - DataIngestion - INFO - Downloading youtube_trending.csv from https://raw.githubusercontent.com/mitchellgordon95/trending-youtube-data/master/USvideos.csv...
+2026-03-26 23:53:29,535 - DataIngestion - ERROR - Failed to download youtube_trending.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/mitchellgordon95/trending-youtube-data/master/USvideos.csv
+2026-03-26 23:53:29,538 - DataIngestion - INFO - Downloading imdb_metadata.csv from https://raw.githubusercontent.com/sundeepblue/movie_rating_prediction/master/movie_metadata.csv...
+2026-03-26 23:53:30,891 - DataIngestion - INFO - Successfully downloaded imdb_metadata.csv
+2026-03-26 23:53:30,946 - DataIngestion - INFO - --- Dataset Summary: imdb_metadata.csv ---
+2026-03-26 23:53:30,947 - DataIngestion - INFO - Shape: (5043, 28)
+2026-03-26 23:53:30,947 - DataIngestion - INFO - Columns: ['color', 'director_name', 'num_critic_for_reviews', 'duration', 'director_facebook_likes', 'actor_3_facebook_likes', 'actor_2_name', 'actor_1_facebook_likes', 'gross', 'genres', 'actor_1_name', 'movie_title', 'num_voted_users', 'cast_total_facebook_likes', 'actor_3_name', 'facenumber_in_poster', 'plot_keywords', 'movie_imdb_link', 'num_user_for_reviews', 'language', 'country', 'content_rating', 'budget', 'title_year', 'actor_2_facebook_likes', 'imdb_score', 'aspect_ratio', 'movie_facebook_likes']
+2026-03-26 23:53:30,954 - DataIngestion - INFO - Missing Values: 
+{'color': 19, 'director_name': 104, 'num_critic_for_reviews': 50, 'duration': 15, 'director_facebook_likes': 104, 'actor_3_facebook_likes': 23, 'actor_2_name': 13, 'actor_1_facebook_likes': 7, 'gross': 884, 'genres': 0, 'actor_1_name': 7, 'movie_title': 0, 'num_voted_users': 0, 'cast_total_facebook_likes': 0, 'actor_3_name': 23, 'facenumber_in_poster': 13, 'plot_keywords': 153, 'movie_imdb_link': 0, 'num_user_for_reviews': 21, 'language': 14, 'country': 5, 'content_rating': 303, 'budget': 492, 'title_year': 108, 'actor_2_facebook_likes': 13, 'imdb_score': 0, 'aspect_ratio': 329, 'movie_facebook_likes': 0}
+2026-03-26 23:53:30,956 - DataIngestion - INFO - Phase 2: Data Ingestion completed successfully.
+2026-03-26 23:55:12,973 - DataIngestion - INFO - File ml-small.zip already exists. Skipping download.
+2026-03-26 23:55:13,012 - DataIngestion - INFO - Extracted MovieLens files.
+2026-03-26 23:55:13,012 - DataIngestion - INFO - File spotify_tracks.csv already exists. Skipping download.
+2026-03-26 23:55:13,274 - DataIngestion - INFO - --- Dataset Summary: spotify_tracks.csv ---
+2026-03-26 23:55:13,274 - DataIngestion - INFO - Shape: (32833, 23)
+2026-03-26 23:55:13,276 - DataIngestion - INFO - Data Types: 
+track_id                     object
+track_name                   object
+track_artist                 object
+track_popularity              int64
+track_album_id               object
+track_album_name             object
+track_album_release_date     object
+playlist_name                object
+playlist_id                  object
+playlist_genre               object
+playlist_subgenre            object
+danceability                float64
+energy                      float64
+key                           int64
+loudness                    float64
+mode                          int64
+speechiness                 float64
+acousticness                float64
+instrumentalness            float64
+liveness                    float64
+valence                     float64
+tempo                       float64
+duration_ms                   int64
+dtype: object
+2026-03-26 23:55:13,297 - DataIngestion - INFO - Missing Values: 
+{'track_id': 0, 'track_name': 5, 'track_artist': 5, 'track_popularity': 0, 'track_album_id': 0, 'track_album_name': 5, 'track_album_release_date': 0, 'playlist_name': 0, 'playlist_id': 0, 'playlist_genre': 0, 'playlist_subgenre': 0, 'danceability': 0, 'energy': 0, 'key': 0, 'loudness': 0, 'mode': 0, 'speechiness': 0, 'acousticness': 0, 'instrumentalness': 0, 'liveness': 0, 'valence': 0, 'tempo': 0, 'duration_ms': 0}
+2026-03-26 23:55:13,333 - DataIngestion - INFO - Sample Data (First 3 rows): 
+                 track_id                                         track_name  track_artist  track_popularity  ... liveness valence    tempo duration_ms
+0  6f807x0ima9a1j3VPbc7VN  I Don't Care (with Justin Bieber) - Loud Luxur...    Ed Sheeran                66  ...   0.0653   0.518  122.036      194754
+1  0r7CVbZTWZgbTCYdfa2P31                    Memories - Dillon Francis Remix      Maroon 5                67  ...   0.3570   0.693   99.972      162600
+2  1z1Hg7Vb0AhHDiEmnDE79l                    All the Time - Don Diablo Remix  Zara Larsson                70  ...   0.1100   0.613  124.008      176616
+
+[3 rows x 23 columns]
+2026-03-26 23:55:13,338 - DataIngestion - INFO - Downloading youtube_trending.csv from https://raw.githubusercontent.com/karimbahgat/PyMedia/master/tests/data/USvideos.csv...
+2026-03-26 23:55:14,158 - DataIngestion - ERROR - Failed to download youtube_trending.csv: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/karimbahgat/PyMedia/master/tests/data/USvideos.csv
+2026-03-26 23:55:14,160 - DataIngestion - WARNING - YouTube dataset could not be downloaded. Check URL or network.
+2026-03-26 23:55:14,161 - DataIngestion - INFO - File imdb_metadata.csv already exists. Skipping download.
+2026-03-26 23:55:14,220 - DataIngestion - INFO - --- Dataset Summary: imdb_metadata.csv ---
+2026-03-26 23:55:14,220 - DataIngestion - INFO - Shape: (5043, 28)
+2026-03-26 23:55:14,222 - DataIngestion - INFO - Data Types: 
+color                         object
+director_name                 object
+num_critic_for_reviews       float64
+duration                     float64
+director_facebook_likes      float64
+actor_3_facebook_likes       float64
+actor_2_name                  object
+actor_1_facebook_likes       float64
+gross                        float64
+genres                        object
+actor_1_name                  object
+movie_title                   object
+num_voted_users                int64
+cast_total_facebook_likes      int64
+actor_3_name                  object
+facenumber_in_poster         float64
+plot_keywords                 object
+movie_imdb_link               object
+num_user_for_reviews         float64
+language                      object
+country                       object
+content_rating                object
+budget                       float64
+title_year                   float64
+actor_2_facebook_likes       float64
+imdb_score                   float64
+aspect_ratio                 float64
+movie_facebook_likes           int64
+dtype: object
+2026-03-26 23:55:14,227 - DataIngestion - INFO - Missing Values: 
+{'color': 19, 'director_name': 104, 'num_critic_for_reviews': 50, 'duration': 15, 'director_facebook_likes': 104, 'actor_3_facebook_likes': 23, 'actor_2_name': 13, 'actor_1_facebook_likes': 7, 'gross': 884, 'genres': 0, 'actor_1_name': 7, 'movie_title': 0, 'num_voted_users': 0, 'cast_total_facebook_likes': 0, 'actor_3_name': 23, 'facenumber_in_poster': 13, 'plot_keywords': 153, 'movie_imdb_link': 0, 'num_user_for_reviews': 21, 'language': 14, 'country': 5, 'content_rating': 303, 'budget': 492, 'title_year': 108, 'actor_2_facebook_likes': 13, 'imdb_score': 0, 'aspect_ratio': 329, 'movie_facebook_likes': 0}
+2026-03-26 23:55:14,269 - DataIngestion - INFO - Sample Data (First 3 rows): 
+   color   director_name  num_critic_for_reviews  duration  ...  actor_2_facebook_likes  imdb_score aspect_ratio  movie_facebook_likes
+0  Color   James Cameron                   723.0     178.0  ...                   936.0         7.9         1.78                 33000
+1  Color  Gore Verbinski                   302.0     169.0  ...                  5000.0         7.1         2.35                     0
+2  Color      Sam Mendes                   602.0     148.0  ...                   393.0         6.8         2.35                 85000
+
+[3 rows x 28 columns]
+2026-03-26 23:55:14,271 - DataIngestion - INFO - Phase 2: Data Ingestion completed successfully.
+2026-03-26 23:57:02,928 - DataIngestion - INFO - File ml-small.zip already exists. Skipping download.
+2026-03-26 23:57:02,968 - DataIngestion - INFO - Extracted MovieLens files.
+2026-03-26 23:57:02,969 - DataIngestion - INFO - File spotify_tracks.csv already exists. Skipping download.
+2026-03-26 23:57:03,197 - DataIngestion - INFO - --- Dataset Summary: spotify_tracks.csv ---
+2026-03-26 23:57:03,197 - DataIngestion - INFO - Shape: (32833, 23)
+2026-03-26 23:57:03,235 - DataIngestion - INFO - Sample Data (First 3 rows): 
+                 track_id                                         track_name  track_artist  track_popularity  ... liveness valence    tempo duration_ms
+0  6f807x0ima9a1j3VPbc7VN  I Don't Care (with Justin Bieber) - Loud Luxur...    Ed Sheeran                66  ...   0.0653   0.518  122.036      194754
+1  0r7CVbZTWZgbTCYdfa2P31                    Memories - Dillon Francis Remix      Maroon 5                67  ...   0.3570   0.693   99.972      162600
+2  1z1Hg7Vb0AhHDiEmnDE79l                    All the Time - Don Diablo Remix  Zara Larsson                70  ...   0.1100   0.613  124.008      176616
+
+[3 rows x 23 columns]
+2026-03-26 23:57:03,241 - DataIngestion - INFO - File imdb_metadata.csv already exists. Skipping download.
+2026-03-26 23:57:03,290 - DataIngestion - INFO - --- Dataset Summary: imdb_metadata.csv ---
+2026-03-26 23:57:03,291 - DataIngestion - INFO - Shape: (5043, 28)
+2026-03-26 23:57:03,323 - DataIngestion - INFO - Sample Data (First 3 rows): 
+   color   director_name  num_critic_for_reviews  duration  ...  actor_2_facebook_likes  imdb_score aspect_ratio  movie_facebook_likes
+0  Color   James Cameron                   723.0     178.0  ...                   936.0         7.9         1.78                 33000
+1  Color  Gore Verbinski                   302.0     169.0  ...                  5000.0         7.1         2.35                     0
+2  Color      Sam Mendes                   602.0     148.0  ...                   393.0         6.8         2.35                 85000
+
+[3 rows x 28 columns]
+2026-03-26 23:57:03,324 - DataIngestion - INFO - Phase 2: Data Ingestion completed successfully.

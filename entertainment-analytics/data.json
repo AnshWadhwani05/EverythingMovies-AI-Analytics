@@ -1,0 +1,3190 @@
+[
+  {
+    "name": "Netflix",
+    "category": "Streaming Platforms",
+    "rank": 1,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Netflix offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=Netflix"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "category": "Streaming Platforms",
+    "rank": 2,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Amazon Prime Video offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.8,
+    "url": "https://www.google.com/search?q=Amazon+Prime+Video"
+  },
+  {
+    "name": "Disney+ Hotstar",
+    "category": "Streaming Platforms",
+    "rank": 3,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Disney+ Hotstar offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.9,
+    "url": "https://www.google.com/search?q=Disney++Hotstar"
+  },
+  {
+    "name": "Apple TV+",
+    "category": "Streaming Platforms",
+    "rank": 4,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Apple TV+ offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Apple+TV+"
+  },
+  {
+    "name": "Hulu",
+    "category": "Streaming Platforms",
+    "rank": 5,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Hulu offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=Hulu"
+  },
+  {
+    "name": "HBO Max",
+    "category": "Streaming Platforms",
+    "rank": 6,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "HBO Max offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=HBO+Max"
+  },
+  {
+    "name": "Paramount+",
+    "category": "Streaming Platforms",
+    "rank": 7,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Paramount+ offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=Paramount+"
+  },
+  {
+    "name": "Peacock",
+    "category": "Streaming Platforms",
+    "rank": 8,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Peacock offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Peacock"
+  },
+  {
+    "name": "SonyLIV",
+    "category": "Streaming Platforms",
+    "rank": 9,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "SonyLIV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=SonyLIV"
+  },
+  {
+    "name": "ZEE5",
+    "category": "Streaming Platforms",
+    "rank": 10,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "ZEE5 offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=ZEE5"
+  },
+  {
+    "name": "Discovery+",
+    "category": "Streaming Platforms",
+    "rank": 11,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Discovery+ offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Discovery+"
+  },
+  {
+    "name": "YouTube Movies",
+    "category": "Streaming Platforms",
+    "rank": 12,
+    "tags": [
+      "PAID"
+    ],
+    "description": "YouTube Movies offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=YouTube+Movies"
+  },
+  {
+    "name": "MX Player",
+    "category": "Streaming Platforms",
+    "rank": 13,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "MX Player offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.9,
+    "url": "https://www.google.com/search?q=MX+Player"
+  },
+  {
+    "name": "ALTBalaji",
+    "category": "Streaming Platforms",
+    "rank": 14,
+    "tags": [
+      "PAID"
+    ],
+    "description": "ALTBalaji offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=ALTBalaji"
+  },
+  {
+    "name": "Voot",
+    "category": "Streaming Platforms",
+    "rank": 15,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Voot offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.9,
+    "url": "https://www.google.com/search?q=Voot"
+  },
+  {
+    "name": "Eros Now",
+    "category": "Streaming Platforms",
+    "rank": 16,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Eros Now offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=Eros+Now"
+  },
+  {
+    "name": "Lionsgate Play",
+    "category": "Streaming Platforms",
+    "rank": 17,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Lionsgate Play offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=Lionsgate+Play"
+  },
+  {
+    "name": "Aha",
+    "category": "Streaming Platforms",
+    "rank": 18,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Aha offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=Aha"
+  },
+  {
+    "name": "Sun NXT",
+    "category": "Streaming Platforms",
+    "rank": 19,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Sun NXT offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=Sun+NXT"
+  },
+  {
+    "name": "Hoichoi",
+    "category": "Streaming Platforms",
+    "rank": 20,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Hoichoi offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Hoichoi"
+  },
+  {
+    "name": "JioCinema",
+    "category": "Streaming Platforms",
+    "rank": 21,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "JioCinema offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=JioCinema"
+  },
+  {
+    "name": "MUBI",
+    "category": "Streaming Platforms",
+    "rank": 22,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "MUBI offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=MUBI"
+  },
+  {
+    "name": "CuriosityStream",
+    "category": "Streaming Platforms",
+    "rank": 23,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "CuriosityStream offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=CuriosityStream"
+  },
+  {
+    "name": "Kanopy",
+    "category": "Streaming Platforms",
+    "rank": 24,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Kanopy offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Kanopy"
+  },
+  {
+    "name": "Shudder",
+    "category": "Streaming Platforms",
+    "rank": 25,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Shudder offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=Shudder"
+  },
+  {
+    "name": "BritBox",
+    "category": "Streaming Platforms",
+    "rank": 26,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "BritBox offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=BritBox"
+  },
+  {
+    "name": "Acorn TV",
+    "category": "Streaming Platforms",
+    "rank": 27,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Acorn TV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=Acorn+TV"
+  },
+  {
+    "name": "Rakuten TV",
+    "category": "Streaming Platforms",
+    "rank": 28,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Rakuten TV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=Rakuten+TV"
+  },
+  {
+    "name": "Plex TV",
+    "category": "Streaming Platforms",
+    "rank": 29,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Plex TV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.9,
+    "url": "https://www.google.com/search?q=Plex+TV"
+  },
+  {
+    "name": "Pluto Premium",
+    "category": "Streaming Platforms",
+    "rank": 30,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Pluto Premium offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=Pluto+Premium"
+  },
+  {
+    "name": "YouTube Premium",
+    "category": "Streaming Platforms",
+    "rank": 31,
+    "tags": [
+      "PAID"
+    ],
+    "description": "YouTube Premium offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=YouTube+Premium"
+  },
+  {
+    "name": "Google TV",
+    "category": "Streaming Platforms",
+    "rank": 32,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Google TV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=Google+TV"
+  },
+  {
+    "name": "Vudu",
+    "category": "Streaming Platforms",
+    "rank": 33,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Vudu offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=Vudu"
+  },
+  {
+    "name": "Redbox",
+    "category": "Streaming Platforms",
+    "rank": 34,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Redbox offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Redbox"
+  },
+  {
+    "name": "FilmRise",
+    "category": "Streaming Platforms",
+    "rank": 35,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "FilmRise offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=FilmRise"
+  },
+  {
+    "name": "Xumo",
+    "category": "Streaming Platforms",
+    "rank": 36,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Xumo offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.8,
+    "url": "https://www.google.com/search?q=Xumo"
+  },
+  {
+    "name": "Sling TV",
+    "category": "Streaming Platforms",
+    "rank": 37,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Sling TV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=Sling+TV"
+  },
+  {
+    "name": "Philo",
+    "category": "Streaming Platforms",
+    "rank": 38,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Philo offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=Philo"
+  },
+  {
+    "name": "fuboTV",
+    "category": "Streaming Platforms",
+    "rank": 39,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "fuboTV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.8,
+    "url": "https://www.google.com/search?q=fuboTV"
+  },
+  {
+    "name": "Crunchyroll Premium",
+    "category": "Streaming Platforms",
+    "rank": 40,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Crunchyroll Premium offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=Crunchyroll+Premium"
+  },
+  {
+    "name": "Funimation Premium",
+    "category": "Streaming Platforms",
+    "rank": 41,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Funimation Premium offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=Funimation+Premium"
+  },
+  {
+    "name": "WeTV",
+    "category": "Streaming Platforms",
+    "rank": 42,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "WeTV offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=WeTV"
+  },
+  {
+    "name": "iQIYI",
+    "category": "Streaming Platforms",
+    "rank": 43,
+    "tags": [
+      "PAID"
+    ],
+    "description": "iQIYI offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=iQIYI"
+  },
+  {
+    "name": "Tencent Video",
+    "category": "Streaming Platforms",
+    "rank": 44,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Tencent Video offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=Tencent+Video"
+  },
+  {
+    "name": "Bilibili",
+    "category": "Streaming Platforms",
+    "rank": 45,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Bilibili offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.8,
+    "url": "https://www.google.com/search?q=Bilibili"
+  },
+  {
+    "name": "Starz",
+    "category": "Streaming Platforms",
+    "rank": 46,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Starz offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Starz"
+  },
+  {
+    "name": "Showtime",
+    "category": "Streaming Platforms",
+    "rank": 47,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "Showtime offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Showtime"
+  },
+  {
+    "name": "AMC+",
+    "category": "Streaming Platforms",
+    "rank": 48,
+    "tags": [
+      "PAID",
+      "HD"
+    ],
+    "description": "AMC+ offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=AMC+"
+  },
+  {
+    "name": "Hallmark Movies Now",
+    "category": "Streaming Platforms",
+    "rank": 49,
+    "tags": [
+      "PAID",
+      "NO ADS"
+    ],
+    "description": "Hallmark Movies Now offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.9,
+    "url": "https://www.google.com/search?q=Hallmark+Movies+Now"
+  },
+  {
+    "name": "Tubi Premium",
+    "category": "Streaming Platforms",
+    "rank": 50,
+    "tags": [
+      "PAID"
+    ],
+    "description": "Tubi Premium offers a wide range of movies, series, and exclusive content.",
+    "pros": [
+      "Large content library",
+      "Good streaming quality"
+    ],
+    "cons": [
+      "Subscription required"
+    ],
+    "type": "Official",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Tubi+Premium"
+  },
+  {
+    "name": "Tubi",
+    "category": "Free Movie Sites",
+    "rank": 1,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Tubi provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Tubi"
+  },
+  {
+    "name": "Pluto TV",
+    "category": "Free Movie Sites",
+    "rank": 2,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Pluto TV provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=Pluto+TV"
+  },
+  {
+    "name": "Plex",
+    "category": "Free Movie Sites",
+    "rank": 3,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Plex provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Plex"
+  },
+  {
+    "name": "Crackle",
+    "category": "Free Movie Sites",
+    "rank": 4,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Crackle provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=Crackle"
+  },
+  {
+    "name": "Popcornflix",
+    "category": "Free Movie Sites",
+    "rank": 5,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Popcornflix provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Popcornflix"
+  },
+  {
+    "name": "SolarMovie",
+    "category": "Free Movie Sites",
+    "rank": 6,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "SolarMovie provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=SolarMovie"
+  },
+  {
+    "name": "123Movies",
+    "category": "Free Movie Sites",
+    "rank": 7,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "123Movies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=123Movies"
+  },
+  {
+    "name": "FMovies",
+    "category": "Free Movie Sites",
+    "rank": 8,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "FMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=FMovies"
+  },
+  {
+    "name": "YesMovies",
+    "category": "Free Movie Sites",
+    "rank": 9,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "YesMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=YesMovies"
+  },
+  {
+    "name": "AZMovies",
+    "category": "Free Movie Sites",
+    "rank": 10,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "AZMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=AZMovies"
+  },
+  {
+    "name": "LookMovie",
+    "category": "Free Movie Sites",
+    "rank": 11,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "LookMovie provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=LookMovie"
+  },
+  {
+    "name": "MoviesJoy",
+    "category": "Free Movie Sites",
+    "rank": 12,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MoviesJoy provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=MoviesJoy"
+  },
+  {
+    "name": "Putlocker",
+    "category": "Free Movie Sites",
+    "rank": 13,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Putlocker provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=Putlocker"
+  },
+  {
+    "name": "GoMovies",
+    "category": "Free Movie Sites",
+    "rank": 14,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "GoMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=GoMovies"
+  },
+  {
+    "name": "WatchSeries",
+    "category": "Free Movie Sites",
+    "rank": 15,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "WatchSeries provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=WatchSeries"
+  },
+  {
+    "name": "Soap2Day Mirror",
+    "category": "Free Movie Sites",
+    "rank": 16,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Soap2Day Mirror provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=Soap2Day+Mirror"
+  },
+  {
+    "name": "Cineb",
+    "category": "Free Movie Sites",
+    "rank": 17,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Cineb provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.5,
+    "url": "https://www.google.com/search?q=Cineb"
+  },
+  {
+    "name": "StreamM4u",
+    "category": "Free Movie Sites",
+    "rank": 18,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "StreamM4u provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=StreamM4u"
+  },
+  {
+    "name": "Vumoo",
+    "category": "Free Movie Sites",
+    "rank": 19,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Vumoo provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=Vumoo"
+  },
+  {
+    "name": "FlixHQ",
+    "category": "Free Movie Sites",
+    "rank": 20,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "FlixHQ provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=FlixHQ"
+  },
+  {
+    "name": "BMovies",
+    "category": "Free Movie Sites",
+    "rank": 21,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "BMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=BMovies"
+  },
+  {
+    "name": "HDToday",
+    "category": "Free Movie Sites",
+    "rank": 22,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "HDToday provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=HDToday"
+  },
+  {
+    "name": "TinyZone",
+    "category": "Free Movie Sites",
+    "rank": 23,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "TinyZone provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=TinyZone"
+  },
+  {
+    "name": "SFlix",
+    "category": "Free Movie Sites",
+    "rank": 24,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "SFlix provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=SFlix"
+  },
+  {
+    "name": "Movie4k",
+    "category": "Free Movie Sites",
+    "rank": 25,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Movie4k provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Movie4k"
+  },
+  {
+    "name": "PrimeWire",
+    "category": "Free Movie Sites",
+    "rank": 26,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "PrimeWire provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=PrimeWire"
+  },
+  {
+    "name": "LosMovies",
+    "category": "Free Movie Sites",
+    "rank": 27,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "LosMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=LosMovies"
+  },
+  {
+    "name": "CouchTuner",
+    "category": "Free Movie Sites",
+    "rank": 28,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "CouchTuner provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=CouchTuner"
+  },
+  {
+    "name": "WatchFree",
+    "category": "Free Movie Sites",
+    "rank": 29,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "WatchFree provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=WatchFree"
+  },
+  {
+    "name": "YesFlix",
+    "category": "Free Movie Sites",
+    "rank": 30,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "YesFlix provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=YesFlix"
+  },
+  {
+    "name": "MegaShare",
+    "category": "Free Movie Sites",
+    "rank": 31,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MegaShare provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.6,
+    "url": "https://www.google.com/search?q=MegaShare"
+  },
+  {
+    "name": "Openload Movies",
+    "category": "Free Movie Sites",
+    "rank": 32,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Openload Movies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.5,
+    "url": "https://www.google.com/search?q=Openload+Movies"
+  },
+  {
+    "name": "MyFlixer",
+    "category": "Free Movie Sites",
+    "rank": 33,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MyFlixer provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.6,
+    "url": "https://www.google.com/search?q=MyFlixer"
+  },
+  {
+    "name": "ZMovies",
+    "category": "Free Movie Sites",
+    "rank": 34,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "ZMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=ZMovies"
+  },
+  {
+    "name": "MovieWatcher",
+    "category": "Free Movie Sites",
+    "rank": 35,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MovieWatcher provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=MovieWatcher"
+  },
+  {
+    "name": "Filmxy",
+    "category": "Free Movie Sites",
+    "rank": 36,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Filmxy provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=Filmxy"
+  },
+  {
+    "name": "Watch32",
+    "category": "Free Movie Sites",
+    "rank": 37,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Watch32 provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=Watch32"
+  },
+  {
+    "name": "Flixtor",
+    "category": "Free Movie Sites",
+    "rank": 38,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Flixtor provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=Flixtor"
+  },
+  {
+    "name": "HDToday Mirror",
+    "category": "Free Movie Sites",
+    "rank": 39,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "HDToday Mirror provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=HDToday+Mirror"
+  },
+  {
+    "name": "FreeFlix",
+    "category": "Free Movie Sites",
+    "rank": 40,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "FreeFlix provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=FreeFlix"
+  },
+  {
+    "name": "NetMovies",
+    "category": "Free Movie Sites",
+    "rank": 41,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "NetMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=NetMovies"
+  },
+  {
+    "name": "WorldFree4u",
+    "category": "Free Movie Sites",
+    "rank": 42,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "WorldFree4u provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=WorldFree4u"
+  },
+  {
+    "name": "9xMovies",
+    "category": "Free Movie Sites",
+    "rank": 43,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "9xMovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=9xMovies"
+  },
+  {
+    "name": "MoviesVerse",
+    "category": "Free Movie Sites",
+    "rank": 44,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MoviesVerse provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=MoviesVerse"
+  },
+  {
+    "name": "Vegamovies",
+    "category": "Free Movie Sites",
+    "rank": 45,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Vegamovies provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=Vegamovies"
+  },
+  {
+    "name": "KatMovieHD",
+    "category": "Free Movie Sites",
+    "rank": 46,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "KatMovieHD provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=KatMovieHD"
+  },
+  {
+    "name": "MLWBD",
+    "category": "Free Movie Sites",
+    "rank": 47,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MLWBD provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=MLWBD"
+  },
+  {
+    "name": "DownloadHub",
+    "category": "Free Movie Sites",
+    "rank": 48,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "DownloadHub provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=DownloadHub"
+  },
+  {
+    "name": "Filmyzilla",
+    "category": "Free Movie Sites",
+    "rank": 49,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "Filmyzilla provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=Filmyzilla"
+  },
+  {
+    "name": "MoviesNation",
+    "category": "Free Movie Sites",
+    "rank": 50,
+    "tags": [
+      "FREE",
+      "ADS"
+    ],
+    "description": "MoviesNation provides free access to movies and TV shows online.",
+    "pros": [
+      "Free access",
+      "Large variety"
+    ],
+    "cons": [
+      "Ads or popups"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.6,
+    "url": "https://www.google.com/search?q=MoviesNation"
+  },
+  {
+    "name": "Crunchyroll",
+    "category": "Anime Platforms",
+    "rank": 1,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "Crunchyroll is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=Crunchyroll"
+  },
+  {
+    "name": "Funimation",
+    "category": "Anime Platforms",
+    "rank": 2,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "Funimation is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=Funimation"
+  },
+  {
+    "name": "9anime",
+    "category": "Anime Platforms",
+    "rank": 3,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "9anime is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.2,
+    "url": "https://www.google.com/search?q=9anime"
+  },
+  {
+    "name": "Gogoanime",
+    "category": "Anime Platforms",
+    "rank": 4,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "Gogoanime is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=Gogoanime"
+  },
+  {
+    "name": "AnimeHeaven",
+    "category": "Anime Platforms",
+    "rank": 5,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeHeaven is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=AnimeHeaven"
+  },
+  {
+    "name": "AnimeFreak",
+    "category": "Anime Platforms",
+    "rank": 6,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeFreak is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimeFreak"
+  },
+  {
+    "name": "AnimeDao",
+    "category": "Anime Platforms",
+    "rank": 7,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeDao is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=AnimeDao"
+  },
+  {
+    "name": "AnimePlanet",
+    "category": "Anime Platforms",
+    "rank": 8,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimePlanet is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.6,
+    "url": "https://www.google.com/search?q=AnimePlanet"
+  },
+  {
+    "name": "AniWatch",
+    "category": "Anime Platforms",
+    "rank": 9,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AniWatch is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AniWatch"
+  },
+  {
+    "name": "Zoro.to",
+    "category": "Anime Platforms",
+    "rank": 10,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "Zoro.to is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=Zoro.to"
+  },
+  {
+    "name": "Kickassanime",
+    "category": "Anime Platforms",
+    "rank": 11,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "Kickassanime is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=Kickassanime"
+  },
+  {
+    "name": "MasterAnime",
+    "category": "Anime Platforms",
+    "rank": 12,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "MasterAnime is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.6,
+    "url": "https://www.google.com/search?q=MasterAnime"
+  },
+  {
+    "name": "AnimeKisa",
+    "category": "Anime Platforms",
+    "rank": 13,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeKisa is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=AnimeKisa"
+  },
+  {
+    "name": "AnimeUltima",
+    "category": "Anime Platforms",
+    "rank": 14,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeUltima is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=AnimeUltima"
+  },
+  {
+    "name": "AnimePahe",
+    "category": "Anime Platforms",
+    "rank": 15,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimePahe is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimePahe"
+  },
+  {
+    "name": "Chia-Anime",
+    "category": "Anime Platforms",
+    "rank": 16,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "Chia-Anime is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=Chia-Anime"
+  },
+  {
+    "name": "AnimeFLV",
+    "category": "Anime Platforms",
+    "rank": 17,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeFLV is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimeFLV"
+  },
+  {
+    "name": "AnimeGG",
+    "category": "Anime Platforms",
+    "rank": 18,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeGG is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimeGG"
+  },
+  {
+    "name": "AnimeLab",
+    "category": "Anime Platforms",
+    "rank": 19,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeLab is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AnimeLab"
+  },
+  {
+    "name": "AnimeTake",
+    "category": "Anime Platforms",
+    "rank": 20,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeTake is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AnimeTake"
+  },
+  {
+    "name": "AnimeVibe",
+    "category": "Anime Platforms",
+    "rank": 21,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeVibe is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=AnimeVibe"
+  },
+  {
+    "name": "AnimeRush",
+    "category": "Anime Platforms",
+    "rank": 22,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeRush is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AnimeRush"
+  },
+  {
+    "name": "AnimeShow",
+    "category": "Anime Platforms",
+    "rank": 23,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeShow is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=AnimeShow"
+  },
+  {
+    "name": "AnimeStreams",
+    "category": "Anime Platforms",
+    "rank": 24,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeStreams is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=AnimeStreams"
+  },
+  {
+    "name": "AnimeHub",
+    "category": "Anime Platforms",
+    "rank": 25,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeHub is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AnimeHub"
+  },
+  {
+    "name": "AnimeCloud",
+    "category": "Anime Platforms",
+    "rank": 26,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeCloud is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=AnimeCloud"
+  },
+  {
+    "name": "AnimeOwl",
+    "category": "Anime Platforms",
+    "rank": 27,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeOwl is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=AnimeOwl"
+  },
+  {
+    "name": "AnimeTV",
+    "category": "Anime Platforms",
+    "rank": 28,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeTV is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=AnimeTV"
+  },
+  {
+    "name": "AnimeZone",
+    "category": "Anime Platforms",
+    "rank": 29,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeZone is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=AnimeZone"
+  },
+  {
+    "name": "AnimeWorld",
+    "category": "Anime Platforms",
+    "rank": 30,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeWorld is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=AnimeWorld"
+  },
+  {
+    "name": "AniMixPlay",
+    "category": "Anime Platforms",
+    "rank": 31,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AniMixPlay is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.6,
+    "url": "https://www.google.com/search?q=AniMixPlay"
+  },
+  {
+    "name": "OtakuStream",
+    "category": "Anime Platforms",
+    "rank": 32,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "OtakuStream is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=OtakuStream"
+  },
+  {
+    "name": "KissAnime Clone",
+    "category": "Anime Platforms",
+    "rank": 33,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "KissAnime Clone is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=KissAnime+Clone"
+  },
+  {
+    "name": "AnimeBam",
+    "category": "Anime Platforms",
+    "rank": 34,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeBam is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.7,
+    "url": "https://www.google.com/search?q=AnimeBam"
+  },
+  {
+    "name": "AnimeWow",
+    "category": "Anime Platforms",
+    "rank": 35,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeWow is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=AnimeWow"
+  },
+  {
+    "name": "AnimeFire",
+    "category": "Anime Platforms",
+    "rank": 36,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeFire is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.6,
+    "url": "https://www.google.com/search?q=AnimeFire"
+  },
+  {
+    "name": "AnimeBee",
+    "category": "Anime Platforms",
+    "rank": 37,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeBee is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=AnimeBee"
+  },
+  {
+    "name": "AnimeWave",
+    "category": "Anime Platforms",
+    "rank": 38,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeWave is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.8,
+    "url": "https://www.google.com/search?q=AnimeWave"
+  },
+  {
+    "name": "AnimeX",
+    "category": "Anime Platforms",
+    "rank": 39,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeX is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=AnimeX"
+  },
+  {
+    "name": "AnimePlus",
+    "category": "Anime Platforms",
+    "rank": 40,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimePlus is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimePlus"
+  },
+  {
+    "name": "AnimeMax",
+    "category": "Anime Platforms",
+    "rank": 41,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeMax is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.5,
+    "url": "https://www.google.com/search?q=AnimeMax"
+  },
+  {
+    "name": "AnimeUltra",
+    "category": "Anime Platforms",
+    "rank": 42,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeUltra is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=AnimeUltra"
+  },
+  {
+    "name": "AnimeArena",
+    "category": "Anime Platforms",
+    "rank": 43,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeArena is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimeArena"
+  },
+  {
+    "name": "AnimeGalaxy",
+    "category": "Anime Platforms",
+    "rank": 44,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeGalaxy is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AnimeGalaxy"
+  },
+  {
+    "name": "AnimeStorm",
+    "category": "Anime Platforms",
+    "rank": 45,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeStorm is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.7,
+    "url": "https://www.google.com/search?q=AnimeStorm"
+  },
+  {
+    "name": "AnimePortal",
+    "category": "Anime Platforms",
+    "rank": 46,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimePortal is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 3.9,
+    "url": "https://www.google.com/search?q=AnimePortal"
+  },
+  {
+    "name": "AnimeCore",
+    "category": "Anime Platforms",
+    "rank": 47,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeCore is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.4,
+    "url": "https://www.google.com/search?q=AnimeCore"
+  },
+  {
+    "name": "AnimeBase",
+    "category": "Anime Platforms",
+    "rank": 48,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeBase is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.0,
+    "url": "https://www.google.com/search?q=AnimeBase"
+  },
+  {
+    "name": "AnimeDeck",
+    "category": "Anime Platforms",
+    "rank": 49,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeDeck is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Mixed",
+    "status": "active",
+    "rating": 4.3,
+    "url": "https://www.google.com/search?q=AnimeDeck"
+  },
+  {
+    "name": "AnimeSpot",
+    "category": "Anime Platforms",
+    "rank": 50,
+    "tags": [
+      "ANIME"
+    ],
+    "description": "AnimeSpot is a platform dedicated to anime streaming and content.",
+    "pros": [
+      "Wide anime collection"
+    ],
+    "cons": [
+      "Ads or limited regions"
+    ],
+    "type": "Aggregator",
+    "sentiment": "Positive",
+    "status": "active",
+    "rating": 4.1,
+    "url": "https://www.google.com/search?q=AnimeSpot"
+  }
+]
