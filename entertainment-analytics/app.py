@@ -11,9 +11,8 @@ import re
 API_URL = "http://127.0.0.1:8000"
 
 # ───────── GOOGLE AUTH CONFIGURATION ─────────
-# I have inserted your keys here and removed the extra indentation
-GOOGLE_CLIENT_ID = "585889887538-llttmnmg3f8qmqadpn4m3mbqkik7q1oc.apps.googleusercontent.com"
-GOOGLE_CLIENT_SECRET = "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"
+GOOGLE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID_HERE"
+GOOGLE_CLIENT_SECRET = "YOUR_GOOGLE_CLIENT_SECRET_HERE"
 REDIRECT_URI = "http://localhost:8501"
 
 AUTHORIZATION_URL = "https://accounts.google.com/o/oauth2/v2/auth"
