@@ -24,9 +24,3 @@ EverythingMovies is a full-stack web application designed for seamless movie dis
 📋 Prerequisites
 - Python 3.9 or higher
 - A Google Cloud Project with OAuth 2.0 enabled
-
-⚙️ Installation & Setup
-1. **Clone & Enter Project**:
-   ```bash
-   git clone [https://github.com/AnshWadhwani05/EverythingMovies-AI-Analytics.git](https://github.com/AnshWadhwani05/EverythingMovies-AI-Analytics.git)
-   cd EverythingMovies-AI-Analytics/entertainment-analytics
